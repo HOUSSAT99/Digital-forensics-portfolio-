@@ -10,7 +10,7 @@
 ### 2. Summary of Findings
 - High-level overview
 - Key evidence recovered
-- Conclusion (substantiated / not substantiated)
+- Conclusion: substantiated
 
 ### 3. Detailed Metadata Analysis
 - Table of relevant files with Created/Modified/Accessed timestamps
